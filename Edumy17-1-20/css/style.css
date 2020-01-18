@@ -6061,7 +6061,7 @@ ul.mc_parent_list ul.mc_child_list:hover .pricing_btn{
   height: 43px;
   line-height: 27px;
   text-align: center;
-  width: 104px;
+  /*width: 104px;*/
 }
 .ui_kit_tab .nav.nav-tabs .nav-link:hover {
   border: 1px solid transparent;
